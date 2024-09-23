@@ -26,4 +26,17 @@ ul{
 
 }
 
+figure{
+    img{
+        width:10vw;
+    }
+}
 
+main{
+    background-color: #75442C ;
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
